@@ -1,4 +1,4 @@
-# MythBuster
+# MythBusters
 We're Team 60 and this is our Dungeon Crawler for CS 2340! Read on for more information.
 
 <h2> Player Controls </h2>
