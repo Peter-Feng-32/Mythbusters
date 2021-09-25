@@ -12,7 +12,7 @@ We're Team 60 and this is our Dungeon Crawler for CS 2340! Read on for more info
 <h3> Spear </h3>
 Stabs forward, dealing moderate melee damage. When held, allows for full movement speed.
 <h3> Dagger </h3>
-Slices forward, dealing huge melee damage. When held, reduces movement speed.
+Slices forward, dealing huge melee damage. When held, reduces movement speed slightly.
 <h3> Bow </h3>
 Shoots an arrow, dealing small ranged damage. When held, allows for full movement speed. 
 
@@ -26,21 +26,21 @@ Increases the player's movement speed for 10 seconds.
 
 <h2> Monster Types </h2>
 <h3> Soldier </h3>
-Chase after the player and attack for 2 red hearts
+Chases after the player and attacks for 2 red hearts
 <h3> Mage </h3>
-Throw fireball at the player that deal 2 heart of damage, and occasionally move to a different spot in the room.
+Throws fireball at the player that deals 2 hearts of damage, and occasionally moves to a different spot in the room.
 <h3> Trap Monster </h3>
-Place 1 trap every 2 seconds and move randomly across the room.
+Places 1 trap every 2 seconds and moves randomly across the room.
 
 <h2> What does the chests do? </h2>
 <h3> Gold Chest </h3>
-The gold chest give you some coins
+The gold chest gives you some coins
 <h3> Blue Chest </h3>
-The blue chest give you some potions
+The blue chest gives you some potions
 <h3> Green Chest </h3>
-The green chest heal all of your hearts
+The green chest heals you to full health
 <h3> Red Chest </h3>
-The cursed chest have a chance of damaging the player for 2 red heart upon opening. However, it can also give you a lot of coins, a lot of potions, an extra weapon, or a chance to increase your maximum heart by 2.
+The cursed chest has a chance of damaging the player for 2 hearts upon opening. However, it can also give you a lot of coins, a lot of potions, an extra weapon, or the chance to increase your maximum hearts by 2.
 
 <h2> Rooms </h2>
 <h3> Monster Rooms </h3>
