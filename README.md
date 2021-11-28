@@ -9,9 +9,10 @@ We're Team 60 and this is our Dungeon Crawler for CS 2340! Read on for more info
 - **1,2,3,4,5**: Activate hotbar items.
 
 <h2> Difficulty Options </h2>
-**Easy:** Decreased enemy movement speed and spawn count. Chance that red chests provide a negative effect is decreased. Amount of coins from a gold chest are increased. 
-**Medium:** Standardized enemy movement speed and spawn count. Standard chance of red chests providing a negative effect. Standard amount of coins from a gold chest.
-**Hard:** Increased enemy movement speed and spawn count. Chance that red chests provide a negative effect is increased. Reduced amount of coins from a gold chest. Small probability of gold chests not giving a coin profit.
+
+- **Easy:** Decreased enemy movement speed and spawn count. Chance that red chests provide a negative effect is decreased. Amount of coins from a gold chest are increased. 
+- **Medium:** Standardized enemy movement speed and spawn count. Standard chance of red chests providing a negative effect. Standard amount of coins from a gold chest.
+- **Hard:** Increased enemy movement speed and spawn count. Chance that red chests provide a negative effect is increased. Reduced amount of coins from a gold chest. Small probability of gold chests not giving a coin profit.
 
 <h2> Weapons </h2>
 <h3> Spear </h3>
